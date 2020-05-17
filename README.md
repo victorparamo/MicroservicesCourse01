@@ -14,8 +14,8 @@ Inside this file write:
 127.0.0.1       posts.com
 ```
 
-You also need to install ```Docker``` from: ```https://www.docker.com/```
-
-You also need to install ```Skaffold``` from: ```https://skaffold.dev/```
+You also need to install:
+- ```Docker``` from: ```https://www.docker.com/```
+- ```Skaffold``` from: ```https://skaffold.dev/```
 
 
